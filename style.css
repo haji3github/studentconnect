@@ -1,0 +1,21 @@
+
+
+
+.a{
+    font-family: 'Times New Roman';
+    color: rgb(103, 49, 169);
+
+}
+body  {
+    background-image: url("bg\ 1.jpeg");
+    background-size:cover;
+    img {
+        opacity: 0.4;
+        filter: alpha(opacity = 40); /* For IE */
+    }
+        ;
+    }
+
+  
+
+  
